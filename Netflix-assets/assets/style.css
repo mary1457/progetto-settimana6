@@ -1,0 +1,41 @@
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+    .profilo {
+        width: 100% !important;
+    }
+}
+
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+   
+
+    .profilo {
+        width: 75% !important;
+    }
+
+ 
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+   
+
+    .profilo {
+        width: 75% !important;
+    }
+
+    
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { .profilo {
+    width: 50% !important;
+}
+}
+
+@media (min-width: 1400px) { .profilo {
+    width: 75% !important;
+}
+}
+.show {display: flex;}
